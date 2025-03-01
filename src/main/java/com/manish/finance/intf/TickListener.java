@@ -1,5 +1,5 @@
-package com.manish.elwood.intf;
-import com.manish.elwood.common.Tick;
+package com.manish.finance.intf;
+import com.manish.finance.common.Tick;
 
 /**
  * An interface for listening to tick-related events.

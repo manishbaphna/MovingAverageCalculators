@@ -1,4 +1,4 @@
-package com.manish.elwood.common;
+package com.manish.finance.common;
 
 import java.math.BigDecimal;
 import java.time.Instant;

@@ -1,7 +1,7 @@
-package com.manish.elwood.calculators;
+package com.manish.finance.calculators;
 
-import com.manish.elwood.common.Tick;
-import com.manish.elwood.intf.Calculator;
+import com.manish.finance.common.Tick;
+import com.manish.finance.intf.Calculator;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

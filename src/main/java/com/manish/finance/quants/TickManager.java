@@ -1,7 +1,7 @@
-package com.manish.elwood.quants;
+package com.manish.finance.quants;
 
-import com.manish.elwood.common.Tick;
-import com.manish.elwood.intf.*;
+import com.manish.finance.common.Tick;
+import com.manish.finance.intf.*;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

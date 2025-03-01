@@ -1,6 +1,6 @@
-package com.manish.elwood.intf;
+package com.manish.finance.intf;
 
-import com.manish.elwood.common.Tick;
+import com.manish.finance.common.Tick;
 
 import java.math.BigDecimal;
 

@@ -1,12 +1,12 @@
-package com.manish.elwood.quants;
+package com.manish.finance.quants;
 
-import com.manish.elwood.calculators.ExponentialAverageCalculator;
-import com.manish.elwood.calculators.MovingAverageCalculator;
-import com.manish.elwood.calculators.WindowedAverageCalculator;
-import com.manish.elwood.common.Tick;
-import com.manish.elwood.intf.Calculator;
-import com.manish.elwood.listners.SampleListener1;
-import com.manish.elwood.listners.SampleListener2;
+import com.manish.finance.calculators.ExponentialAverageCalculator;
+import com.manish.finance.calculators.MovingAverageCalculator;
+import com.manish.finance.calculators.WindowedAverageCalculator;
+import com.manish.finance.common.Tick;
+import com.manish.finance.intf.Calculator;
+import com.manish.finance.listners.SampleListener1;
+import com.manish.finance.listners.SampleListener2;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

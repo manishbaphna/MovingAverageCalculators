@@ -1,12 +1,12 @@
-package com.manish.elwood.calculators;
+package com.manish.finance.calculators;
 
-import com.manish.elwood.common.Tick;
+import com.manish.finance.common.Tick;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
 import java.time.Instant;
 
-import static com.manish.elwood.testutils.TestUtilis.assertEqualsBigDecimal;
+import static com.manish.finance.testutils.TestUtilis.assertEqualsBigDecimal;
 
 class ExponentialAverageCalculatorTest {
 
